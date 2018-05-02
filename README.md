@@ -17,7 +17,7 @@ A curated list of the upcoming IT conferences sorted chronologically
 ### September
 
 ### October
-- [JCON](http://jcon.one/en/) (Oct 9-12, Duesseldorf, Java)
+- [JCON](http://jcon.one/en/) (Oct 9-12, Dusseldorf, Java)
 
 ### November
 
